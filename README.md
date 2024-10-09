@@ -52,15 +52,15 @@ This repository contains examples of various Python concepts organized into chap
 ## Chapters
 
 - [Chapter 1: Introduction](https://github.com/Skmaurya05550/PYTHON-SERIES_By_SKM-555)
-- [Chapter 2: Variables and Types](Chapter_2_Variables_and_Types.py)
-- [Chapter 3: Operators](Chapter_3_Operators.py)
-- [Chapter 4: Conditional Statements](Chapter_4_Conditional_Statements.py)
-- [Chapter 5: Loops](Chapter_5_Loops.py)
-- [Chapter 6: Functions](Chapter_6_Functions.py)
-- [Chapter 7: Data Structures](Chapter_7_Data_Structures.py)
-- [Chapter 8: File Handling](Chapter_8_File_Handling.py)
-- [Chapter 9: OOP](Chapter_9_OOP.py)
-- [Chapter 10: Modules and Packages](Chapter_10_Modules_and_Packages.py)
+- [Chapter 2: Variables and Types]()
+- [Chapter 3: Operators]()
+- [Chapter 4: Conditional Statements]()
+- [Chapter 5: Loops]()
+- [Chapter 6: Functions]()
+- [Chapter 7: Data Structures]()
+- [Chapter 8: File Handling]()
+- [Chapter 9: OOP]()
+- [Chapter 10: Modules and Packages]()
 
 
 
