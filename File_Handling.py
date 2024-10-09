@@ -1,7 +1,6 @@
 # Writing to a file
 # Explanation : File handling allow us to read froi mm and write to file . 
 
-
 with open("example.txt", "w") as file:
     file.write("Hello, World!")
 
