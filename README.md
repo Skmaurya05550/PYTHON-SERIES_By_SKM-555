@@ -51,7 +51,7 @@ This repository contains examples of various Python concepts organized into chap
 
 ## Chapters
 
-- [Chapter 1: Introduction](Chapter_1_Skmaurya05550/Introduction.py)
+- [Chapter 1: Introduction](Chapter_1_Introduction.py)
 - [Chapter 2: Variables and Types](Chapter_2_Variables_and_Types.py)
 - [Chapter 3: Operators](Chapter_3_Operators.py)
 - [Chapter 4: Conditional Statements](Chapter_4_Conditional_Statements.py)
