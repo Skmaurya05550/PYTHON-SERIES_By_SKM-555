@@ -6,5 +6,5 @@ fruits = ["apple", "banana", "cherry"]
 print(fruits[0])
 
 # Dictionary
-person = {"name": "Alice", "age": 25}
+person = {"name": "Skm@555", "age": 21}
 print(person["name"])
